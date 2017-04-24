@@ -94,7 +94,7 @@ class LocaleRedirect_GoService extends BaseApplicationComponent {
 	Does nothing. Used for debugging.
 	*/
 	private function doNothing($str) {
-		echo $str;
+		// echo $str;
 		return;
 	}
 
